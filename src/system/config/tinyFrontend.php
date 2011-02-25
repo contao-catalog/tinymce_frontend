@@ -90,3 +90,4 @@ tinyMCE.init({
 });
 //--><!]]>
 </script>
+<?php endif; ?>
